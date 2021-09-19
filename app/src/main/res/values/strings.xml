@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="motivate1">I am Strong</string>
+    <string name="motivate2">I am Intelligent</string>
+    <string name="vs1">The Lord is my Strength</string>
+    <string name="vs1b">I shall not want</string>
+    <string name="vs2">He makes me lie down in green pastures</string>
+    <string name="vs2b">He restores my soul</string>
+    <string name="vs3">Even though i walk through the valley</string>
+    <string name="vs3b">of the shadow of death</string>
+    <string name="vs4">I fear no evil</string>
+    <string name="vs4b">For He is with me</string>
+    <string name="vs5">His rod and staff comfort me</string>
+    <string name="vs5b">He prepares a table for me before my enemies</string>
+    <string name="vs6">He anoints my head with oil, until my cup overflows</string>
+    <string name="vs6b">Surely goodness and mercy shall follow me</string>
+    <string name="vs7">All the days of my life</string>
+    <string name="vs7b">And I will dwell in the house of the lord forever</string>
+    <string name="amen">AMEN!</string>
+</resources>
