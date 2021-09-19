@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Recycler View</string>
-    <string name="motivate1">I am Strong</string>
-    <string name="motivate2">I am Intelligent</string>
     <string name="vs1">The Lord is my Strength</string>
     <string name="vs1b">I shall not want</string>
     <string name="vs2">He makes me lie down in green pastures</string>
