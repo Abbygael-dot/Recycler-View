@@ -15,6 +15,7 @@ RecyclerView.Adapter<ItemAdapter.ItemViewHolder>(){ //this code overrides some a
 
     class ItemViewHolder(private  val view : View) : RecyclerView.ViewHolder(view) {
         val text : TextView = view.findViewById(R.id.item_title)
+        val image : ImageView = view.findViewById(R.id.image_view)
     }
 //these are the methods that we need to override
     //the onCreateViewHolder method is called by the layout manger to create new view holders for your recycler view
@@ -27,6 +28,7 @@ RecyclerView.Adapter<ItemAdapter.ItemViewHolder>(){ //this code overrides some a
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dataSet[position]
         holder.text.text = context.resources.getString(item.stringId)
+        holder.image.setImageResource(item.imageId)
     }
 // this fun needs to return the size of our data set
     override fun getItemCount(): Int {

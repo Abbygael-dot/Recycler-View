@@ -21,6 +21,15 @@
             android:textAppearance="?attr/textAppearanceBody1"
             android:textAlignment="center">
         </TextView>
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:importantForAccessibility="no"
+            android:scaleType="fitCenter">
+
+        </ImageView>
     </LinearLayout>
 
 

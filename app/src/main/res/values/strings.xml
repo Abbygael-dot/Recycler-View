@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Recycler View</string>
-    <string name="vs1">The Lord is my Strength</string>
+    <string name="vs1">The Lord is my Shepherd</string>
     <string name="vs1b">I shall not want</string>
     <string name="vs2">He makes me lie down in green pastures</string>
-    <string name="vs2b">He restores my soul</string>
-    <string name="vs3">Even though i walk through the valley</string>
-    <string name="vs3b">of the shadow of death</string>
-    <string name="vs4">I fear no evil</string>
-    <string name="vs4b">For He is with me</string>
+    <string name="vs2b">He leads me beside still waters</string>
+    <string name="vs3">He restores my soul</string>
+    <string name="vs3b">He guides me along the right path for his name\'s sake</string>
+    <string name="vs4">Even though i walk through the valley of the shadow of death</string>
+    <string name="vs4b">I fear no evil, for He is with me</string>
     <string name="vs5">His rod and staff comfort me</string>
     <string name="vs5b">He prepares a table for me before my enemies</string>
     <string name="vs6">He anoints my head with oil, until my cup overflows</string>
