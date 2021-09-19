@@ -6,10 +6,10 @@ import com.example.recyclerview.model.Psalm23
 class DataSource {
     fun loadVerses() : List<Psalm23>{
         return listOf<Psalm23>(
-            Psalm23(R.string.vs1, R.drawable.shepherd),
-            Psalm23(R.string.vs1b, R.drawable.begger),
+            Psalm23(R.string.vs1, R.drawable.shepherd2),
+            Psalm23(R.string.vs1b, R.drawable.begger2),
             Psalm23(R.string.vs2, R.drawable.pastures),
-            Psalm23(R.string.vs2b, R.drawable.water),
+            Psalm23(R.string.vs2b, R.drawable.water2),
             Psalm23(R.string.vs3, R.drawable.soul),
             Psalm23(R.string.vs3b, R.drawable.path),
             Psalm23(R.string.vs4, R.drawable.valley),
